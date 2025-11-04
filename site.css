@@ -1,0 +1,17 @@
+.header-color {
+    background-color: #0659b1 !important;
+}
+.footer-color {
+    background-color: #2aacb1 !important;
+}
+.color-main{
+    color: #0659b1;
+}
+.btn-main {
+    background-color: #0659b1;
+    color: white;
+}
+.btn-main:hover {
+    background-color: #0970df;
+    color: white;
+}
