@@ -1,5 +1,5 @@
 .header-color {
-    background-color: #0659b1 !important;
+    background-color: #013063 !important;
 }
 .footer-color {
     background-color: #2aacb1 !important;
@@ -8,10 +8,19 @@
     color: #0659b1;
 }
 .btn-main {
-    background-color: #0659b1;
+    background-color: #013063;
     color: white;
 }
 .btn-main:hover {
     background-color: #0970df;
     color: white;
+}
+
+.header-text-color{
+    color:gold;
+}
+
+.card-background{
+    border-color: #75ad5b;    
+    border-width: 5px;
 }
